@@ -25,3 +25,7 @@ Create a react input component that
 - [x] There should be a button called "Print Preview". When clicked it should open a new tab, print a page which has the new image centered at the top, and then close the tab after printing _(drawn)_
 - [x] If no image has been saved then the print button should be disabled _(drawn)_
 - [x] The displayed image in print preview should be no higher than 100px. _cond_
+
+#### Flow Diagram :
+
+![flow-1](https://user-images.githubusercontent.com/17708702/35199466-0245f4f2-ff24-11e7-9445-b5f5cd72b1c8.jpg)
