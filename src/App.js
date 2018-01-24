@@ -37,7 +37,8 @@ export default class App extends React.Component {
         <Grid>
           <Row>
             <h2 style={PageTitleStyle}>
-              HOE <br />- image cropping tool
+              HOE
+              <h4>an image cropping tool</h4>
             </h2>
             <Col lg={10} lgOffset={1}>
               {this.state.savedImageURLfromServer ? (

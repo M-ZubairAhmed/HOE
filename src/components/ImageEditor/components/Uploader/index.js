@@ -36,7 +36,7 @@ const uploadSpaceStyle = {
 export default class Uploader extends React.Component {
   onInputChange = e => {
     uploadedPhoto = e.target.files[0]
-    if (uploadedPhoto.size <= 125000) {
+    if (uploadedPhoto.size <= 1000000) {
       if (
         uploadedPhoto.type === 'image/png' ||
         uploadedPhoto.type === 'image/jpeg'
