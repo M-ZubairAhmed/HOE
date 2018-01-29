@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.imgur.com/55xMnX3m.jpg"/>
+  <img src="https://i.imgur.com/55xMnX3t.jpg"/>
 </p>
 <h1 align="center">HOE</h1>
 <h4 align="center">An image cropping and printing tool</h4>
