@@ -1,6 +1,9 @@
-# HOE
 
-An image cropping and printing tool
+<p align="center">
+  <img src="https://i.imgur.com/55xMnX3m.jpg"/>
+</p>
+<h1 align="center">HOE</h1>
+<h4 align="center">An image cropping and printing tool</h4>
 
 > Meaning :- verb :
 > use a hoe to dig (earth) or thin out or dig up (plants).
