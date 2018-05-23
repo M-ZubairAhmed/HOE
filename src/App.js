@@ -16,7 +16,7 @@ export default class App extends React.Component {
         'http://lorempixel.com/800/100/cats/',
       )
       await this.setState({
-        savedImageURLfromServer: resolveduploadedImageURL,
+        savedImageURLfromServer: editedPhoto,
       })
     } else {
       this.setState({
